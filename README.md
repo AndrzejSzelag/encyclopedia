@@ -6,6 +6,7 @@
 ![wiki2.java](wiki2.png "ENCYCLOPEDIA - Andy Page")
 ![wiki3.java](wiki3.png "ENCYCLOPEDIA - Edit Page")
 ![wiki4.java](wiki4.png "ENCYCLOPEDIA - New Page")
+![wiki5.java](wiki5.png "ENCYCLOPEDIA - New Page - error")
 
 ## Specification 
 🚀 https://cs50.harvard.edu/web/2020/projects/1/wiki/
