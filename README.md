@@ -19,8 +19,8 @@
 
 * Python 3.11.1
 * Django 4.1.4
-* markdown2
-* django-markdownify
+* markdown2 2.4.10
+* django-markdownify 0.9.0
 
 __TIP__: If you have a _requirements.txt_ file type this command: __python -m pip install -r requirements.txt__
 
