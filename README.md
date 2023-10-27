@@ -22,7 +22,7 @@
 * markdown2
 * django-markdownify
 
-__TIP___: If you have a _requirements.txt_ file type this command: __python -m pip install -r requirements.txt__
+__TIP__: If you have a _requirements.txt_ file type this command: __python -m pip install -r requirements.txt__
 
 ### How to run? 
 1. Go to the directory which contains "__manage.py__" file
