@@ -3,9 +3,9 @@
 ✒️ Design a Wikipedia-like online encyclopedia.
 
 ![wiki1.java](wiki1.png "ENCYCLOPEDIA - Home")
-![wiki2.java](wiki2.png "ENCYCLOPEDIA - Andy page")
+![wiki2.java](wiki2.png "ENCYCLOPEDIA - Andy Page")
 ![wiki3.java](wiki3.png "ENCYCLOPEDIA - Edit page Andy")
-![wiki4.java](wiki4.png "ENCYCLOPEDIA - New")
+![wiki4.java](wiki4.png "ENCYCLOPEDIA - New Page")
 
 ## Specification 
 🚀 https://cs50.harvard.edu/web/2020/projects/1/wiki/
