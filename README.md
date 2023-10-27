@@ -4,7 +4,7 @@
 
 ![wiki1.java](wiki1.png "ENCYCLOPEDIA - All Pages")
 ![wiki2.java](wiki2.png "ENCYCLOPEDIA - Andy Page")
-![wiki3.java](wiki3.png "ENCYCLOPEDIA - Edit page Andy")
+![wiki3.java](wiki3.png "ENCYCLOPEDIA - Edit Page")
 ![wiki4.java](wiki4.png "ENCYCLOPEDIA - New Page")
 
 ## Specification 
