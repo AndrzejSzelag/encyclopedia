@@ -8,27 +8,22 @@
 ![wiki4.java](wiki4.png "ENCYCLOPEDIA - wiki4")
 
 ## Specification 
-Check https://cs50.harvard.edu/web/2020/projects/1/wiki/
+🚀 https://cs50.harvard.edu/web/2020/projects/1/wiki/
 
 ## Video
-YouTube https://youtu.be/sVDdQjUeHkg
+🚀 https://youtu.be/sVDdQjUeHkg
 
-## Requirements to run the project
 
-* Install python and pip.
+### Requirements
 
-* After pip was installed, run:
-    
-    ````
-    pip install django
-    ````
-    ````
-    pip install markdown2
-    ````
-    ````
-    pip install django-markdownify
-    ````
-* In the root folder, execute: 
-    ````
-    python manage.py runserver
-    ````
+* Python 3.11.1
+* Django 4.1.4
+* markdown2
+* django-markdownify
+
+__TIP___: If you have a _requirements.txt_ file type this command: __python -m pip install -r requirements.txt__
+
+### How to run? 
+1. Go to the directory which contains "__manage.py__" file
+2. Then type this command: __python manage.py runserver__
+3. In your Web browser use a URL: __http://127.0.0.1:8000/__
