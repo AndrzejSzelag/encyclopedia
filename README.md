@@ -2,6 +2,8 @@
 
 [<img alt="Python" src="https://img.shields.io/badge/Python-3.11.1-3776AB.svg?logo=python">](https://www.python.org/)
 [<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-4.4.1-7952B3.svg?logo=bootstrap&logoColor=white">](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+[<img alt="markdown2" src="https://img.shields.io/badge/markdown2-2.4.10-000000.svg?logo=markdown&logoColor=white">](https://github.com/trentm/python-markdown2)
+[<img alt="django-markdownify" src="https://img.shields.io/badge/django--markdownify-0.9.0-092E20.svg?logo=django&logoColor=white">](https://github.com/Rockyzsu/django-markdownify)
 
 #### 📘 Project 1 from Edx | Harvard CS50's Web Programming with Python and JavaScript Course
 ✒️ Design a Wikipedia-like online encyclopedia.
