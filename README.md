@@ -1,4 +1,8 @@
 # Encyclopedia
+
+[<img alt="Python" src="https://img.shields.io/badge/Python-3.11.1-3776AB.svg?logo=python">](https://www.python.org/)
+[<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-4.4.1-7952B3.svg?logo=bootstrap&logoColor=white">](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+
 #### 📘 Project 1 from Edx | Harvard CS50's Web Programming with Python and JavaScript Course
 ✒️ Design a Wikipedia-like online encyclopedia.
 
